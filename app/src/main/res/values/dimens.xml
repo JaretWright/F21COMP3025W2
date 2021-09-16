@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="input_width">280dp</dimen>
+    <dimen name="button_width">175dp</dimen>
+    <dimen name="object_vertical_gap">20dp</dimen>
+</resources>
